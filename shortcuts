@@ -1,4 +1,12 @@
+#System
 Win+Enter -> Power Off
+
+#App
 Win+T -> Terminal
-Win+D -> Close App
 Win+K -> Kitty
+Win+Space -> Unikey
+
+#Window Manager
+Win+D -> Close 
+Win+R -> Resize
+Win+F -> Full
