@@ -1,9 +1,32 @@
-# This is my dotfiles
+# 🌸 My Dotfiles  
 
-![alt text](images/screenshot1.png)
+## 📸 Screenshots  
 
+![Screenshot 1](images/screenshot1.png) <br><br>
 
-![alt text](images/screenshot2.png)
+![Screenshot 2](images/screenshot2.png) <br><br>
 
+![Screenshot 3](images/screenshot3.png)
 
-![alt text](images/screenshot3.png)
+---
+
+## 🧩 GNOME Extensions  
+
+![GNOME Extensions](images/extensions.png)  
+
+---
+
+## ⌨️ Shortcuts  
+
+### 🔧 System  
+- **Win + Enter** → Power Off  
+
+### 🖥️ Applications  
+- **Win + T** → Terminal  
+- **Win + K** → Kitty  
+- **Win + Space** → Unikey  
+
+### 🪟 Window Manager  
+- **Win + D** → Close Window  
+- **Win + R** → Resize Window  
+- **Win + F** → Fullscreen  
